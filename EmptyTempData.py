@@ -5,4 +5,4 @@ import os
 path1 = "C:/Windows/Temp"
 path2 = "C:/Users/Martin/AppData/Local/Temp"
 
-print(path1.)
+print(path1)
